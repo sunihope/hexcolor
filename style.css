@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 5%;
+}
+
+
+main {
+  border: 5px solid #555;
+  width: 80%;
+
+}
+
+#color {
+  width: 50%;
+  height: 1rem;
+  height: 50%;
+}
+
+
+button {
+  background: skyblue;
+  border-radius: 1em;
+
+
+  }
