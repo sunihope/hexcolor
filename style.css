@@ -1,25 +1,41 @@
 * {
-  margin: 0 auto;
-  padding: 5%;
+  margin: 0;
+  padding: 0;
 }
 
+#colorcode {
+  margin: 2em 2em;
+
+}
 
 main {
+position: relative;
   border: 5px solid #555;
-  width: 80%;
+  width: 90%;
+  height: 90%;
+  margin: 10px auto;
+
+
+
 
 }
 
 #color {
+  margin: 2em 2em;
+  position: relative;
   width: 50%;
   height: 1rem;
   height: 50%;
+  padding-left: 1em;
 }
 
 
 button {
-  background: skyblue;
-  border-radius: 1em;
+  background: iceblue;
+  border-radius: .5em;
+  width:10em;
+  height: auto;
+  font-size: 1rem;
 
 
   }
