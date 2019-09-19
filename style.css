@@ -5,15 +5,15 @@
 
 #colorcode {
   margin: 2em 2em;
-
 }
 
 main {
   position: relative;
-  border: 5px solid #555;
+  border: 5px solid #ccc;
   width: 90%;
   height: 90%;
   margin: 10px auto;
+  border-radius: 0.5rem;
 }
 
 #color {
@@ -31,6 +31,4 @@ button {
   width:10em;
   height: auto;
   font-size: 1rem;
-
-
-  }
+}
