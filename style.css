@@ -9,7 +9,7 @@
 }
 
 main {
-position: relative;
+  position: relative;
   border: 5px solid #555;
   width: 90%;
   height: 90%;
@@ -24,7 +24,6 @@ position: relative;
   margin: 2em 2em;
   position: relative;
   width: 50%;
-  height: 1rem;
   height: 50%;
   padding-left: 1em;
 }
